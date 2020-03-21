@@ -1,0 +1,15 @@
+{
+  "name": "appfsfev2",
+  "version": "1.0.0",
+  "description": "FullStack FrontEnd Masters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Jem & M4rcux!",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
